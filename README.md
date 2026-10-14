@@ -156,6 +156,13 @@ mindset: "Build deliberately, verify claims with code, and solve genuine problem
   </table>
 </div>
 
+### 💼 Work Experience & Internships
+
+- **Android Development Intern** — **InnovationsHub Services** *(May 2023 – July 2023)*
+  - Built responsive native Android features using **Java**, **Android Studio**, and Material Design layouts.
+  - Integrated **Firebase Authentication** and real-time database syncing for client profiles.
+  - Wired asynchronous networking with **REST APIs** (OkHttp) and handled lifecycle performance optimization across varying Android API levels.
+
 ---
 
 ### 🏆 Hackathons & Accolades
